@@ -1,2 +1,2 @@
 # Project-2
-"Product Profitability Table of Tapspin Enterprise
+"Product Profitability Analysis of Tapspin Enterprise
