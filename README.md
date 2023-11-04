@@ -10,26 +10,24 @@ Analyzed key financial metrics such as profit margins and Total Sales.
 Developed an interactive dashboard in Power BI to provide stakeholders with a user-friendly interface for accessing and exploring the profitability data. <br>
 
 **DATA EXTRACTION:** <br>
-The data was [extracted](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Extraction.pbix) from the company's SQL server. <br><br>
-**DATA ASSESSMENT** <br>
-The column ditribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces and data uniqueness and distintiveness.   <br><br>
-**DATA TRANSFORMATION**<br>
-Transformation was done on the already assessed data. The data had alot of issues and required thorough cleaning, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The [Transformed Data](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Transformation.pbix) was then saved and made ready for the Data Modelling. <br><br>
+The data was [extracted](https://github.com/bankoleifeolukayode/Project-2/blob/main/Tapspin%20Data.pbix) from the Web.The project commenced with the collection of comprehensive financial data, including product sales, cost of goods sold,Product subcatergory, Region and State of Sales, Unit Prices ETC. in the Tapspin Enterprise product line. <br><br>
+**DATA CLEANING AND TRANSFORMATION** <br>
+Raw data underwent rigorous cleaning and transformation processes to ensure data accuracy and uniformity. This involved addressing missing data, standardizing data formats, and establishing data relationships as needed.<br><br>
 **DATA MODELLING**<br>
-Power BI's data modeling capabilities were used to create relationships between different datasets. Data hieracchy and date table creation using DAX was done, enabling a holistic view of the organization's performance. <br><br>
-**VISUALIZATION** <br>
-Various Power BI [visualizations](https://github.com/bankoleifeolukayode/Project-1/blob/main/Data%20Visualization.pbix), such as Column charts, pie charts, and maps, were employed to create compelling visual representations of the data. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) such as profit margins was analyzed over time to assess the company's overall performance in the regions where sales took place. <br><br>
+Power BI's data modeling capabilities were leveraged to create robust relationships between various datasets, enabling the development of a unified dataset for profitability analysis. <br><br>
+**VISUAL ANALYSIS** <br>
+Various Power BI visualizations, including tables, charts, graphs, and slicers, were employed to present product-specific data. These visualizations were designed to facilitate a comprehensive exploration of profitability metrics. <br><br>
+**PROFITABILITY METRICS**<br> 
+Key financial metrics, such as gross profit margin, net profit, total sales, were calculated for each product. These metrics formed the foundation for evaluating product profitability.<br><br>
+**DASHBOARD CREATION**<br> 
+An interactive Power BI [dashboard](https://github.com/bankoleifeolukayode/Project-2/blob/main/Tapspin%20Data.pbix) was meticulously designed to offer an accessible and engaging platform for exploring profitability insights. Users could interact with the dashboard, compare products, and drill down for deeper analysis.<br><br>
+**Project Outcomes**<br>
+Improved Profitability Insights: The project delivered a holistic understanding of the profitability of Tapspin Enterprise's product line, enabling the identification of top-performing products and areas requiring strategic adjustments.
 
-**DASHBOARD CREATION:** A user-friendly Power BI dashboard was developed to present the insights in an intuitive and interactive manner. Users could filter data, drill down into specific time periods, and gain a deep understanding of the company's performance.<br><br>
+Data-Driven Decision-Making: The interactive Power BI dashboard empowered decision-makers within the organization to assess product performance comprehensively, make informed decisions regarding pricing strategies, and allocate resources optimally.
 
-**PROJECT OUTCOMES:** <br>
+Resource Optimization: By identifying products with suboptimal profitability, the project supported efforts to optimize costs, pricing structures, and resource allocation, ultimately enhancing the financial health and profitability of the enterprise.
 
-Clear Insights: The project provided a clear picture of how Bukunola Enterprise had performed over the specified time period, allowing stakeholders to make informed decisions based on historical data.<br>
+Enhanced Data Transparency: The project enhanced data transparency within the organization, fostering a culture of data-driven decision-making and enabling team members at all levels to access and understand the company's profitability data.
 
-Improved Decision-Making: The interactive Power BI dashboard empowered decision-makers to identify areas for improvement, allocate resources effectively, and set realistic performance targets.<br>
-
-Data Transparency: The project enhanced data transparency within the organization, making it easier for employees at all levels to access and understand the company's performance data.<br>
-
-Data-Driven Culture: The project contributed to fostering a data-driven culture within Bukunola Enterprise, emphasizing the importance of data analysis in strategic decision-making.<br>
-
-In conclusion, the "Time-based Performance Analysis of Bukunola Enterprise" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.<br>
+In conclusion, the "Product Profitability Analysis of Tapspin Enterprise" project successfully harnessed the capabilities of Power BI to transform raw financial data into actionable insights, allowing Tapspin Enterprise to make informed decisions that improved profitability and supported the company's overall growth and success.
